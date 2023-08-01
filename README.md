@@ -9,5 +9,5 @@
     - Buscar um departamento pelo seu id
     - Inserir um novo departamento
 
-## Tendo em mente o seguinte modelo:
- ! (https://raw.githubusercontent.com/devsuperior/java-web-spring-2022/main/img/dominio.png)
+### Tendo em mente o seguinte modelo:
+ !(https://raw.githubusercontent.com/devsuperior/java-web-spring-2022/main/img/dominio.png)
